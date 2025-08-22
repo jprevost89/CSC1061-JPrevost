@@ -1,0 +1,62 @@
+Benchpress
+Chest
+Weights
+
+Push-ups
+Chest
+No Weights
+
+Dumbbell Flyes
+Chest
+Weights
+
+Dips
+Chest
+No Weights
+
+Squat
+Legs
+Weights
+
+Deadlift
+Legs
+Weights
+
+Lunges
+Legs
+Weights
+
+Calf Raises
+Legs
+Weights
+
+Shrugs
+Back
+Weights
+
+Straight-Arm Pulldown
+Back
+Weights
+
+Rows
+Back
+Weights
+
+Pull-Ups
+Back
+No Weights
+
+Shoulder Press
+Shoulders
+Weights
+
+Pulldowns
+Triceps
+Weights
+
+Curls
+Biceps
+Weights
+
+Done
+None

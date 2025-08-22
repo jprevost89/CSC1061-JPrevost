@@ -1,0 +1,50 @@
+Jacob,Smith,27,male,single,software engineer,123 Main St,San Francisco,CA,94105
+Ashley,Hernandez,32,female,married,accountant,456 Elm St,Miami,FL,33131
+Liam,Jones,45,male,married,construction worker,789 Oak Ave,Seattle,WA,98101
+Emily,Chen,29,female,single,graphic designer,1010 Broadway St,New York,NY,10003
+Michael,Lee,33,male,married,dentist,2345 Main St,Boston,MA,02108
+Samantha,Wilson,26,female,single,marketing assistant,678 Maple Rd,Los Angeles,CA,90001
+Daniel,Kim,39,male,married,IT consultant,890 Pine St,Chicago,IL,60601
+Sarah,Johnson,31,female,single,nurse,1212 4th Ave,Denver,CO,80203
+Jason,Davis,41,male,married,sales representative,345 Cedar Blvd,Austin,TX,78701
+Laura,Brown,25,female,single,student,567 Park Ave,Philadelphia,PA,19103
+Robert,Jackson,50,male,married,business owner,789 Madison St,San Diego,CA,92101
+Olivia,Martin,29,female,single,journalist,987 Hillside Rd,Portland,OR,97201
+William,Garcia,35,male,married,teacher,1234 Cherry St,Miami,FL,33131
+Grace,Kim,24,female,single,web developer,5678 Vine St,San Francisco,CA,94102
+Ethan,Martinez,28,male,single,architect,9012 Sunset Blvd,Los Angeles,CA,90046
+Elizabeth,Rodriguez,33,female,married,accountant,3456 Park Ave,New York,NY,10016
+Kevin,Nguyen,26,male,single,data analyst,7890 Pine St,Boston,MA,02108
+Maria,Hernandez,40,female,married,homemaker,123 Spring St,Houston,TX,77002
+Joshua,Lee,31,male,single,consultant,456 Main St,Chicago,IL,60601
+Rachel,Kim,28,female,single,journalist,789 Hillside Rd,San Diego,CA,92101
+Steven,Davis,39,male,married,engineer,1011 Cedar Blvd,Austin,TX,78701
+Jessica,Smith,27,female,single,teacher,1213 4th Ave,Denver,CO,80203
+David,Brown,45,male,married,lawyer,567 Park Ave,Philadelphia,PA,19103
+Amanda,Jackson,29,female,single,artist,789 Madison St,San Francisco,CA,94102
+James,Martin,35,male,married,accountant,987 Hillside Rd,Portland,OR,97201
+Samantha,Garcia,24,female,single,programmer,1234 Cherry St,Miami,FL,33131
+Isabella,Green,31,female,single,journalist,234 Elm St,Boston,MA,02108
+Christopher,White,40,male,married,financial analyst,567 Pine St,San Francisco,CA,94105
+Sofia,Martinez,29,female,single,graphic designer,678 Maple Rd,Los Angeles,CA,90001
+Benjamin,Wright,26,male,single,software developer,890 Pine St,Chicago,IL,60601
+Victoria,Brown,38,female,married,nurse,1212 4th Ave,Denver,CO,80203
+Matthew,Taylor,35,male,single,journalist,345 Cedar Blvd,Austin,TX,78701
+Audrey,Davis,29,female,married,HR manager,567 Park Ave,Philadelphia,PA,19103
+Noah,Rodriguez,27,male,single,graphic designer,789 Madison St,San Diego,CA,92101
+Maya,Patel,30,female,single,marketing manager,987 Hillside Rd,Portland,OR,97201
+Samuel,Wilson,43,male,married,financial advisor,123 Main St,San Francisco,CA,94105
+Charlotte,Lee,25,female,single,accountant,456 Elm St,Miami,FL,33131
+Aaron,Adams,34,male,married,engineer,789 Oak Ave,Seattle,WA,98101
+Chloe,Campbell,28,female,single,writer,1010 Broadway St,New York,NY,10003
+Vincent,Mitchell,36,male,single,IT specialist,2345 Main St,Boston,MA,02108
+Elena,Wright,31,female,married,project manager,678 Maple Rd,Los Angeles,CA,90001
+Nicholas,King,29,male,single,marketing analyst,890 Pine St,Chicago,IL,60601
+Isabelle,Scott,36,female,married,homemaker,1212 4th Ave,Denver,CO,80203
+Adrian,Carter,42,male,married,businessman,345 Cedar Blvd,Austin,TX,78701
+Caroline,Evans,27,female,single,web designer,567 Park Ave,Philadelphia,PA,19103
+Alexander,Lee,32,male,married,pharmacist,789 Madison St,San Francisco,CA,94102
+Grace,Perez,28,female,single,data scientist,987 Hillside Rd,Portland,OR,97201
+Justin,Coleman,30,male,single,consultant,1234 Cherry St,Miami,FL,33131
+Emma,Rivera,26,female,single,photographer,456 Main St,Chicago,IL,60601
+Lucas,Nguyen,33,male,married,teacher,789 Oak Ave,Seattle,WA,98101
