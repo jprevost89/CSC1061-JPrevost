@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.ArrayList;
 
 /**
-  * Writes person to file and reads it back
+  * Creates file, writes person to file, and reads it back
   */
 class Database { // start class Database
    private static final String dataFile = "PersonDatabase.txt";
