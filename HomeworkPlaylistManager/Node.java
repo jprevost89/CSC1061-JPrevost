@@ -10,11 +10,13 @@ class Node { // start class Node
 
    String data;
    Node next;
+   Node prev;
    
    public Node(String artist, String song) { // start Node constructor
       Song track = new Song(artist, song);
       this.data = track.toString();
       this.next = null;
+      this.prev = null;
    } // end Node constructor
 
 } // end clas Node
